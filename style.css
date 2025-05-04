@@ -1,0 +1,128 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+      background: url('https://img.freepik.com/premium-photo/abstract-yellow-watercolor-stain-with-paper-texture-background-template-invitation-card-greeting-card-wedding-card_364465-1670.jpg');
+     
+
+}
+
+
+.font-lavishly {
+    font-family: "Lavishly Yours", cursive;
+
+}
+
+.font-imperial {
+    font-family: "Imperial Script", cursive;
+}
+
+.font-tangerine {
+    font-family: "Tangerine", cursive;
+    font-weight: 700;
+}
+
+header img {
+    width: 200px;
+   
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+
+}
+
+header p {
+    font-size: 1.2rem;
+
+}
+
+#bride-groom-name h2{
+    text-align: center;
+    font-size: 3.8rem;
+    margin: 20px 0;
+
+}
+
+#bride-groom-illustration {
+    text-align: center;
+}
+
+#bride-groom-illustration img{
+    mix-blend-mode: multiply;
+    max-width: 600px;
+    width: 100%;
+
+    
+}
+
+#date-venue {
+    text-align: center;
+    font-size: 20px;
+}
+
+#venue{
+text-align: center;
+}
+
+#venue h2{
+font-size: 3.25rem;
+margin-bottom: 10px;
+}
+
+#venue p{
+   font-size: 1.25rem; 
+}
+#wedding-plan{
+  text-align: center;
+}
+
+#wedding-plan h2{
+    font-size: 3.25rem;
+    margin-bottom: 10px;
+}
+
+#wedding-plan h4 {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#compliments{
+    text-align: center;
+}
+
+#compliments h2{
+    font-size: 3.25rem;
+    margin-bottom: 10px;
+}
+
+#compliments p{
+    font-size: 1.25rem; 
+  
+}
+
+iframe{
+    max-width: 600px;
+    height: 400px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#baby-calling {
+    font-size: 22px;
+}
+
+/* https://i.pinimg.com/736x/0c/4c/5f/0c4c5f1f62a83c22b8a89e217b369eda.jpg 
+https://w7.pngwing.com/pngs/692/707/png-transparent-indian-wedding-traditional-indian-wedding-couple-thumbnail.png
+https://github.com/omrajsharma/wedding-invitation/blob/main/groom-bride.png?raw=true
+https://i.pinimg.com/736x/ca/6c/24/ca6c24245fcaae97aa486376053bcfce.jpg
+*/
